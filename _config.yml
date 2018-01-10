@@ -142,6 +142,9 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - "*.gemspec"
+  - "*.sh"
+  - "s3_website.yml"
 keep_files:
   - .git
   - .svn
