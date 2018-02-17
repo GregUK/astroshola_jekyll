@@ -1,6 +1,6 @@
 ---
 title: Valentines Aquarian Sun
-permalink: /2018/14/02/practicallyslim-october-newsletter/
+permalink: /2018/02/14/valentines-aquarian-sun/index.html
 categories:
   - Astrology
 ---

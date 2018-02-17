@@ -1,6 +1,6 @@
 ---
 title: Practicallyslim October Newsletter
-permalink: /2017/11/03/practicallyslim-october-newsletter/
+permalink: /2017/11/03/practicallyslim-october-newsletter/index.html
 categories:
   - Practicallyslim Newsletter
 ---

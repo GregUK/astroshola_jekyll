@@ -1,6 +1,6 @@
 ---
 title: August Practicallyslim Newsletter
-permalink: /2017/08/21/august-practicallyslim-newsletter/
+permalink: /2017/08/21/august-practicallyslim-newsletter/index.html
 categories:
   - Practicallyslim Newsletter
 excerpt: The latest news letter for Practically Slim Biggleswade and Cambridgeshire
