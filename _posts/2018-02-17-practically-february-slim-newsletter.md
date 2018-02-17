@@ -1,8 +1,9 @@
 ---
 title: Practically Slim February newsletter
-permalink: /2018/02/19/february-practically-slim-newsletter/index.html
 categories:
   - practicallyslim
+excerpt: The February 2018 newsletter for Practically Slim Biggleswade and Cambridgeshire
+
 ---
 
 Finding Your February Focus

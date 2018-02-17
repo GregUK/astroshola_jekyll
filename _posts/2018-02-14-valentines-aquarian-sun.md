@@ -1,6 +1,5 @@
 ---
 title: Valentines Aquarian Sun
-permalink: /2018/02/14/valentines-aquarian-sun/index.html
 categories:
   - Astrology
 ---

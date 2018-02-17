@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en"
@@ -180,10 +181,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/index.html
+#permalink: /:categories/:title/index.html
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -250,7 +251,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      #comments: true
       share: true
       related: true
   # _pages
