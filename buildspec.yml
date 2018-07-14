@@ -1,7 +1,12 @@
 version: 0.2
 phases:
+  install:
+      - echo Installing bundler and jekyll...
+      - gem install bundler jekyll
+      - bundle install
   build:
     commands:
+      - echo Build started on `date`
       - bundle exec jekyll build --incremental
 
 artifacts:
