@@ -10,4 +10,4 @@ The sessions are a talking activity using correlations between celestial events 
 
 With an Astrology reading as a starting point, this process allows more exploration of your gifts and challenges in life. Using the myths and stories of the planets we can explore different aspects of your emotions and personality, where you are and where you want to be in all areas of life.
 
-Please contact me for an individual price depending on what you require.
+Please [contact](/contact) me for an individual price tailored to your needs.
