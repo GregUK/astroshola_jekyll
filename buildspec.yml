@@ -14,7 +14,7 @@ phases:
   build:
     commands:
       - "echo Build started on `date`"
-      - "bundle exec jekyll build --incremental"
+      - "bundle exec jekyll build"
 artifacts:
   files:
      - "_site/**/*"
