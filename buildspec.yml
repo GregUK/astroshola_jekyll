@@ -1,0 +1,9 @@
+version: 0.2
+phases:
+  build:
+    commands:
+      - bundle exec jekyll build --incremental
+
+artifacts:
+  files:
+    - _site/*
