@@ -1,20 +1,18 @@
 # main links
 main:
-  - title: "Tarot Reading"
-    url: /tarot-reading.html
-  - title: "Practically Slim"
-    url: /practically-slim-biggleswade-and-cambridgeshire.html
-  - title: "Lifestyle Coaching"
-    url: /lifestyle-coaching.html
-  - title: "Astrology Readings"
-    url: /astrology-readings.html
   - title: "About"
     url: /about.html
   - title: "Contact"
     url: /contact.html
+  - title: "Astrology Readings"
+    url: /astrology-readings.html
+  - title: "Tarot Reading"
+    url: /tarot-reading.html
   - title: "Business Coaching"
     url: /business-coaching.html
   - title: "Qualifications"
     url: /qualifications.html
+  - title: "Lifestyle Coaching"
+    url: /lifestyle-coaching.html
   - title: "Home"
     url: /
