@@ -2,8 +2,6 @@
 title: Astrology Readings
 permalink: /astrology-readings
 ---
-# Astrology Readings
-
 There are various types of readings available, the most popular being a Birth Chart Reading with Transits and Progressions for the year ahead.
 
 ## Birth chart readings

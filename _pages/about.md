@@ -18,11 +18,17 @@ Visit [Bedford Astrology Club on Facebook](https://www.facebook.com/groups/86918
 
 ## Services
 
-* Astrological Birth Chart reading in person or Via Zoom with full printed or emailed interpretation £67
-* Astrological Transit and Progression reading for the year as including printed interpretation £67
+* Astrological Birth Chart reading with full interpretation of your chart emailed to you and consultation via Zoom £67
+* Astrological Transit and Progression reading with a full interpretation for the year and chart emailed to you and consultation via Zoom £67
 * Framed Astrological Birth Chart with a choice of selected backgrounds and printout £27
-* Tarot Reading £20
-* Ongoing Coaching session £47
+* Tarot Reading £15
+* 1 Hour Coaching session £47
+
+### Offers
+
+* Astrological Birth Chart reading and Astrological Transit and Progression reading with a full interpretation for the year and chart emailed to you and consultation via Zoom £120
+
+* 6 x 1 Hour Coaching sessions £250 (Discount of £32)
 
 Testimonials
 ------------
