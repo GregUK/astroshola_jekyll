@@ -3,6 +3,8 @@ title: Qualifications
 permalink: /qualifications
 ---
 * Diploma in Counselling CSCT
+* Tarot certificate from Sunsign Astrology
+* Astrology certificate from Sunsign Astrology
 * Post Grad Cert Small Business Management
 * Transactional Analysis 101
 * EFT for Eating Disorders
